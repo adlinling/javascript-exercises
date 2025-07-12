@@ -24,6 +24,5 @@ const removeFromArray = function(inputArray, ...removethese) {
     return newArray;
     
 };
-
 // Do not edit below this line
 module.exports = removeFromArray;

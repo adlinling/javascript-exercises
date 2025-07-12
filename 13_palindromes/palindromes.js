@@ -1,5 +1,5 @@
 const palindromes = function (string) {
-    
+
     let chars = string.split("");
 
     let cleanstring = "";
@@ -37,6 +37,7 @@ const palindromes = function (string) {
     }else{
         return false;
     }
+
 };
 
 // Do not edit below this line
